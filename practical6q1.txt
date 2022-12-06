@@ -1,0 +1,3 @@
+c=float(input("Enter Celcius::"))
+f=(c*(9/5))+32
+print(c,"*celcius :: ",f,"*fahrenhit")

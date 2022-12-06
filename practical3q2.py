@@ -1,0 +1,5 @@
+x1=int(input("Enter x1"))
+x2=int(input("Enter x2"))
+y1=int(input("Enter y1"))
+y2=int(input("Enter y2"))
+print("Slope of a line is ",y2-y1/x2-x1)

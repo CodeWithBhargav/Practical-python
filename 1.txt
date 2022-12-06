@@ -1,0 +1,11 @@
+2Practical::
+write a program to read your name cantact number email and birth date 
+and print those details on the screen 
+
+3practical ::
+1.write a program to convert temprature from celcius to fahrenhit
+(fagrenhit to celcius)
+2.write a program to cumpute the slope of line between to point x1, y1 ,x2, y2
+=y2-y1/x2-x1
+3.write a program to calculate simple interest and compound interest 
+4.wap to get change walues in quarter, dime, nickels and pennies, and calculate the value of change in dollars. 
